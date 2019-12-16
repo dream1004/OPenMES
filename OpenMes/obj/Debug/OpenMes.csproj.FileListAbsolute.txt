@@ -1,0 +1,38 @@
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\bin\Debug\OpenMes.exe.config
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.csprojResolveAssemblyReference.cache
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.Properties.Resources.resources
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.csproj.GenerateResource.Cache
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\bin\Debug\OpenMes.exe
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\bin\Debug\OpenMes.pdb
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.exe
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.pdb
+c:\users\devmes\documents\visual studio 2015\Projects\OpenMes\OpenMes\obj\Debug\OpenMes.InputForms.CustomerTap.resources
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\bin\Debug\OpenMes.exe.config
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.exe
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.pdb
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\bin\Debug\OpenMes.exe
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\bin\Debug\OpenMes.pdb
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.InputForms.CustomerTap.resources
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.Properties.Resources.resources
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.csproj.GenerateResource.Cache
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.csprojAssemblyReference.cache
+C:\Users\DEVMES\Downloads\OpenMes\OpenMes\obj\Debug\OpenMes.Form1.resources
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\bin\Debug\OpenMes.exe.config
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\bin\Debug\OpenMes.exe
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\bin\Debug\OpenMes.pdb
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.csprojAssemblyReference.cache
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.Form1.resources
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.InputForms.CustomerTap.resources
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.Properties.Resources.resources
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.csproj.GenerateResource.cache
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.exe
+C:\Users\DEVMES\Downloads\OpenMes1130\OpenMes\obj\Debug\OpenMes.pdb
+E:\OpenMES\OpenMes\bin\Debug\OpenMes.exe.config
+E:\OpenMES\OpenMes\bin\Debug\OpenMes.exe
+E:\OpenMES\OpenMes\bin\Debug\OpenMes.pdb
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.csprojAssemblyReference.cache
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.InputForms.CustomerTap.resources
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.Properties.Resources.resources
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.csproj.GenerateResource.cache
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.exe
+E:\OpenMES\OpenMes\obj\Debug\OpenMes.pdb

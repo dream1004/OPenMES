@@ -1,0 +1,1 @@
+﻿CustomerTap_load , dgv_Customer_CellClick , dgv_Customer_KeyUp 부분 소스 수정 참조하세요
